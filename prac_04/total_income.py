@@ -1,3 +1,8 @@
+"""
+CP1404/CP5632 Practical
+Starter code for cumulative total income program
+"""
+
 def main():
     """Display earnings report for incomes over a given number of months."""
     incomes = []
